@@ -2,22 +2,15 @@
 
 #### Principe du projet
 
-L'objectif est de créer un site web pour une .   
+L'objectif est, en une séance, de concevoir une petite page web, pour une épicerie.
 
-[Voir le projet](https://eracom-id491.github.io/Histoire-de-la-vie/<)
-#### Thème 
-Après en avoir discuter en classe et suit à un vote des plus démocratique, la classe a décidé de choisir les thèmes suivant: 
-> Survie // apocalypse // canapé 
+Première étape:
+Imaginez une petite épicerie de quartier.
+Dans la situation actuelle très difficile, elle décide de lancer un site web.
 
-Le but est donc d'écrire une histoire composée de suites d'actions logiques qui respecte le fil rouge ci-dessus.
-#### Objectifs
-* Réussir à coder une page web
-* Garder une même identité graphique et visuel dans l'ensemble du projet
-* Savoir rediriger une page web vers une autre
-* Écrire une histoire fun qui garde des suites d'évènements logiques
-#### Répartition des tâches
-Voici le tableau des rôles et des taches que chacun doit accomplir dans la joie et la bonne humeur.   
-![Tableau](tableau2.jpg)
-# 
-*Pour toutes questions ou propositions de choses à rajouter sur ce Readme, n'hésitez pas à me contacter.*
+Imaginez, en 5 minutes, un nom et un concept d'épicerie, sous cette forme:
+.......... est une épicerie qui vend des .......... pour une clientèle ...........
+Un exemple: "Blue Patato" est une épicerie qui vend des "Sandwiches Vegan à l'emporter" pour une clientèle "Hipster".
 
+Une fois que vous avez trouvé la phrase-concept, vous la postez ici dans Discord.
+Un autre élève va prendre cette phrase comme "Brief" pour concevoir la page web.
