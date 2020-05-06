@@ -1,6 +1,6 @@
 # Ma petite épicerie
 
-#### Principe du projet
+## Principe du projet
 
 L'objectif est, en une séance, de concevoir une petite page web, pour une épicerie.
 
@@ -15,7 +15,13 @@ Un exemple: "Blue Patato" est une épicerie qui vend des "Sandwiches Vegan à l'
 Une fois que vous avez trouvé la phrase-concept, vous la postez ici dans Discord.
 Un autre élève va prendre cette phrase comme "Brief" pour concevoir la page web.
 
-#### Liste des épiceries
+### Les personnalisations attendues: 
+
+1. choisir une couleur de fond appropriée.
+2. appliquer une ou 2 fontes typo appropriées.
+3. proposer une galerie de trois produits, minimum 3. Vous pouvez les illustrer par des images ou emojis : :cherries: :bagel: :salad:
+
+### Liste des épiceries
 
 - « Savage bread » est une épicerie qui vend des pains protéinés rgb pour les G@merzzz : par Bernardo
 - La Main verte, une épicerie de CBD avec tout le matériel, pour roulé faire du thé et meme planté pour une clientelle 40-50 ans : par Benjamin
