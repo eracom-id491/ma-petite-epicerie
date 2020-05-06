@@ -18,6 +18,7 @@ Un autre élève va prendre cette phrase comme "Brief" pour concevoir la page we
 #### Liste des épiceries
 
 - « Savage bread » est une épicerie qui vend des pains protéinés rgb pour les G@merzzz : par Bernardo
-- La Main verte une épicerie de CBD avec tout le matériel, pour roulé faire du thé et meme planté pour une clientelle 40-50 ans : par Benjamin
-- Jennifer's Bakery, Une boulangerie par Jennifer, pour les Jennifer
+- La Main verte, une épicerie de CBD avec tout le matériel, pour roulé faire du thé et meme planté pour une clientelle 40-50 ans : par Benjamin
+- Jennifer's Bakery, Une boulangerie par Jennifer, pour les Jennifer : par Théo
 - Donuto est une épicerie qui vend des donuts pour une clientèle qui faim : par Mathieu
+- épiflute est une épicerie qui vend l'apéro aux alcoolos
