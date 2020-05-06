@@ -14,3 +14,10 @@ Un exemple: "Blue Patato" est une épicerie qui vend des "Sandwiches Vegan à l'
 
 Une fois que vous avez trouvé la phrase-concept, vous la postez ici dans Discord.
 Un autre élève va prendre cette phrase comme "Brief" pour concevoir la page web.
+
+#### Liste des épiceries
+
+- « Savage bread » est une épicerie qui vend des pains protéinés rgb pour les G@merzzz : par Bernardo
+- La Main verte une épicerie de CBD avec tout le matériel, pour roulé faire du thé et meme planté pour une clientelle 40-50 ans : par Benjamin
+- Jennifer's Bakery, Une boulangerie par Jennifer, pour les Jennifer
+- Donuto est une épicerie qui vend des donuts pour une clientèle qui faim : par Mathieu
