@@ -32,3 +32,6 @@ Un autre élève va prendre cette phrase comme "Brief" pour concevoir la page we
 - Jennifer's Bakery, Une boulangerie par Jennifer, pour les Jennifer : par Théo
 - Donuto est une épicerie qui vend des donuts pour une clientèle qui faim : par Mathieu
 - épiflute est une épicerie qui vend l'apéro aux alcoolos
+- torcheencore une épicerie qui vend du PQ pour les confinés.
+- "farine blanche" une épicerie normale : par Davide
+- "Beauty fuel" est une épicerie qui vend "des produits de beauté et de l'essence" pour une clientèle "beauf"
