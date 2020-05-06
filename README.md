@@ -16,7 +16,7 @@ Un exemple:
 
 > "Blue Potato" est une épicerie qui vend des Sandwiches Vegan à l'emporter pour une clientèle "Hipster".
 
-Une fois que vous avez trouvé la phrase-concept, vous la postez ici dans Discord.
+Une fois que vous avez trouvé la phrase-concept, vous la postez dans Discord.
 Un autre élève va prendre cette phrase comme "Brief" pour concevoir la page web.
 
 ### Les personnalisations attendues: 
