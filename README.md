@@ -35,3 +35,4 @@ Un autre élève va prendre cette phrase comme "Brief" pour concevoir la page we
 - torcheencore une épicerie qui vend du PQ pour les confinés.
 - "farine blanche" une épicerie normale : par Davide
 - "Beauty fuel" est une épicerie qui vend "des produits de beauté et de l'essence" pour une clientèle "beauf"
+- "Houblions" Une épicerie qui fournit des bières artisanales pour les gens qui veulent oublier. 
